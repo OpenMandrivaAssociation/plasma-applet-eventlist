@@ -44,3 +44,16 @@ With the googledata resource also Google calendar items can be shown.
 
 %clean
 %__rm -rf %buildroot
+
+
+%changelog
+* Sat Jul 31 2010 John Balcaen <mikala@mandriva.org> 0.2.90-1mdv2011.0
++ Revision: 563826
+- Update to 0.2.90
+- fix %%files list
+
+* Mon Mar 22 2010 John Balcaen <mikala@mandriva.org> 0.2.4-1mdv2010.1
++ Revision: 526295
+- import plasma-applet-eventlist
+
+
