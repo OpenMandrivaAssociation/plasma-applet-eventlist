@@ -1,7 +1,7 @@
 %define	name	plasma-applet-eventlist
 %define	srcname	plasmoid-eventlist
 %define	version	 0.2.90
-%define	release	%mkrel 1
+%define release	2
 %define	Summary	 This plasmoid show upcoming events from akonadi ressources
 
 Summary:	%Summary
