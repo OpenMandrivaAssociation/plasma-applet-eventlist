@@ -11,7 +11,7 @@ Release:	%release
 Source0:	http://kde-look.org/CONTENT/content-files/107779-%srcname-%version.tar.bz2
 License:	GPLv2
 Group:		Graphical desktop/KDE
-URL:		http://kde-look.org/content/show.php/Eventlist?content=107779
+URL:		https://kde-look.org/content/show.php/Eventlist?content=107779
 BuildRequires:	kdebase4-workspace-devel
 BuildRequires:	kdepimlibs4-devel
 Provides:	plasma-applet
